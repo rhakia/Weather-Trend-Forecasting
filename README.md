@@ -1,8 +1,8 @@
 # Weather-Trend-Forecasting
 A comprehensive project that analyzes global weather trends using time series forecasting (ARIMA, Prophet, Naive), anomaly detection, and advanced climate analytics. Includes spatial visualizations, environmental correlations, and insights derived from a rich real-world weather dataset.
 
-🌦️ Weather Trend Forecasting Project
-A complete weather trend forecasting project analyzing global weather data using various time series models and anomaly detection techniques. This project not only forecasts temperature trends but also performs in-depth climate and environmental analyses across countries and regions.
+
+This is a complete weather trend forecasting project analyzing global weather data using various time series models and anomaly detection techniques. This project not only forecasts temperature trends but also performs in-depth climate and environmental analyses across countries and regions.
 
 📁 Files Included
 
